@@ -11,7 +11,7 @@ authors = [
 r2d2 = "*"
 plugin = "*"
 typemap = "*"
-openssl = "*"
+openssl = "0.7.14"
 nickel = "*"
 redis = "*"
 
